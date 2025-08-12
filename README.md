@@ -22,6 +22,7 @@ Built with **Flask**, **Scikit-learn**, and an interactive UI.
 ├── static/ # Static files (CSS, images, JS)
 │ └── demo.png # App demo screenshot
 ├── templates/ # HTML templates
+├── Sales_Prediction.ipynb # Model training
 ├── requirements.txt # Dependencies
 ├── model_comparison.png # Model comparison chart
 ├── README.md # Project documentation
